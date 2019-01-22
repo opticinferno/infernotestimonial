@@ -1,0 +1,12 @@
+{
+    "name": "inferno/infernotestimonial",
+    "description": "Products Module",
+    "type": "silverstripe-vendormodule",
+    "extra": {
+        "expose": [
+            "client"
+        ]
+    }
+}
+
+
